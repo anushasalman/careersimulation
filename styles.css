@@ -33,10 +33,9 @@ body {
     text-align: left;
     font-size: medium;
     background-image: url("https://garden.spoonflower.com/c/11649296/p/f/m/A9jzcoQPg7YZQxZTwLCdii9ivXI3YKalY4Aow3qfhmTgpCwk49K6hdDYyg/Pine%20Solid%20496b60.jpg");
-    height: 300px;
-    width:300px;
     margin:20px;
-    align-items: center;
+    padding:40px;
+    flex-direction: row;
   }
 
   .about {
@@ -56,10 +55,11 @@ body {
   }
 
   .projects {
-    height: 200px;
-    width: 200px;
+    height: 600px;
+    width: 900px;
     padding: 80px;
     display:flex;
+    flex-direction:row;
   }
 
   .info {
@@ -70,4 +70,5 @@ body {
 
   .submit {
     text-align:right;
+    color:rgb(157, 0, 55);
   }
