@@ -1,0 +1,72 @@
+section {
+  border: 3px solid white;
+  padding: 5px;
+}
+
+.header {
+  color: whitesmoke;
+  text-align: center;
+  font-size: large;
+  font-family:cursive;
+  background-image: url("https://garden.spoonflower.com/c/11649296/p/f/m/A9jzcoQPg7YZQxZTwLCdii9ivXI3YKalY4Aow3qfhmTgpCwk49K6hdDYyg/Pine%20Solid%20496b60.jpg");
+
+}
+
+body {
+  color: white;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/024/228/995/non_2x/peonies-roses-on-pink-background-with-copy-space-abstract-natural-floral-frame-layout-with-text-space-romantic-feminine-composition-wedding-invitation-generative-ai-free-photo.jpg");
+  background-size:cover;
+  font-size: x-large;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  margin: 30px;
+}
+
+  .links {
+    font-size:x-large;
+    font-family:monospace;
+    text-align: right;
+  }
+
+  .projectinfo {
+    color:white;
+    text-align: left;
+    font-size: medium;
+    background-image: url("https://garden.spoonflower.com/c/11649296/p/f/m/A9jzcoQPg7YZQxZTwLCdii9ivXI3YKalY4Aow3qfhmTgpCwk49K6hdDYyg/Pine%20Solid%20496b60.jpg");
+    height: 300px;
+    width:300px;
+    margin:20px;
+  }
+
+  .about {
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    display:flex;
+    }
+
+  .home {
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    gap:40px;
+    margin-left: 100px;
+    display:flex;
+  }
+
+  .projects {
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    display:flex;
+  }
+
+  .info {
+    color:whitesmoke;
+    text-align:right;
+    background-image: url("https://garden.spoonflower.com/c/11649296/p/f/m/A9jzcoQPg7YZQxZTwLCdii9ivXI3YKalY4Aow3qfhmTgpCwk49K6hdDYyg/Pine%20Solid%20496b60.jpg");
+  }
+
+  .submit {
+    text-align:right;
+  }
