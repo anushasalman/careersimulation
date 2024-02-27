@@ -36,6 +36,7 @@ body {
     height: 300px;
     width:300px;
     margin:20px;
+    align-items: center;
   }
 
   .about {
